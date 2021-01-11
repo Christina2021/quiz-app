@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS quizzes_db;
+CREATE DATABASE quizzes_db;
